@@ -1,10 +1,10 @@
-# 📊 Student Marks Analysis using Python
-## 📌 Project Overview
+# Student Marks Analysis using Python
+## Project Overview
 
 This is my 2nd Minor Project, developed using Python to analyze and visualize student marks data.
 The project focuses on understanding student performance across different subjects using basic data analysis techniques.
 
-## 🎯 Objectives
+## Objectives
 
 Analyze student marks from a CSV dataset
 
@@ -14,7 +14,7 @@ Compare total marks of students
 
 Visualize subject-wise and student-wise performance
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 Python
 
@@ -24,7 +24,7 @@ Matplotlib – basic plotting
 
 Seaborn – advanced data visualization
 
-## 📂 Dataset
+## Dataset
 
 CSV file containing:
 
@@ -34,7 +34,7 @@ Subject
 
 Marks (Grand Total out of 200)
 
-## 📈 Features & Analysis
+## Features & Analysis
 
 Subject-wise statistics (mean, max, min)
 
@@ -44,7 +44,7 @@ Bar chart comparison of students
 
 Subject-wise comparison using grouped bar plots
 
-## 📷 Visualizations
+## Visualizations
 
 Student total marks comparison
 
@@ -52,7 +52,7 @@ Subject-wise student performance
 
 Clean and readable bar charts
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 Practical use of groupby() and aggregation functions
 
@@ -60,7 +60,3 @@ Hands-on experience with data visualization
 
 Better understanding of real-world data analysis
 
-## 👤 Author
-
-Akash Soni
-2nd Year Student | Python Learner | Data Analysis Enthusiast
